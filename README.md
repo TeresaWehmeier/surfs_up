@@ -8,7 +8,7 @@ Two deliverables were created to analyze the data, including
 - Temperature readings during the month of December
 
 ### June Statistics
-In the month of June, temperatures recorded range from a minimum of 64&degF to a maximum of 85&degF, or a range of 21&degF for the month. The mean is 75&degF, and the median is 75&degF.
+In the month of June, temperatures recorded range from a minimum of 64&deg;F to a maximum of 85&deg;F, or a range of 21&deg;F for the month. The mean is 75&deg;F, and the median is 75&deg;F.
 
 <img src = "june_temps.png" width="30%" height="10%">
 
