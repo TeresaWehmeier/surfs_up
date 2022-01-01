@@ -10,12 +10,12 @@ Two deliverables were created to analyze the data, including
 ### June Statistics
 In the month of June, temperatures recorded range from a minimum of 64&degF to a maximum of 85&degF, or a range of 21&degF for the month. The mean is 75&degF, and the median is 75&degF.
 
-<img src = "june_temps.png" width="40%" height="20%">
+<img src = "june_temps.png" width="30%" height="10%">
 
 ### December Statistics
 In the month of December, temperatures recorded range from a minimum of 56&degF to a maximum of 83&degF, or a range of 27&degF for the month. The mean is 71&degF, and the median is 71&degF.
 
-<img src = "december_temps.png" width="40%" height="20%">
+<img src = "december_temps.png" width="30%" height="10%">
 
 
 
