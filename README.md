@@ -13,7 +13,7 @@ In the month of June, temperatures recorded range from a minimum of 64&deg;F to 
 <img src = "june_temps.png" width="30%" height="10%">
 
 ### December Statistics
-In the month of December, temperatures recorded range from a minimum of 56&degF to a maximum of 83&degF, or a range of 27&degF for the month. The mean is 71&degF, and the median is 71&degF.
+In the month of December, temperatures recorded range from a minimum of 56&deg;F to a maximum of 83&deg;F, or a range of 27&deg;F for the month. The mean is 71&deg;F, and the median is 71&deg;F.
 
 <img src = "december_temps.png" width="30%" height="10%">
 
